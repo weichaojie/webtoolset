@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>罗金蓉</title>
+</head>
+<body>
+罗金蓉
+<P>魏罗瑞</P>
+
+<canvas id="myCanvas" width="400" height="300" style="border: 3px solid #d30ea5;"></canvas>
+
+
+<img src="pic/IMG_20160221_111541.jpg" alt="照片" width="600" height="800">
+<video width="320" height="240" controls>
+    <source src="jjkk.ogg" type="video/mp4">
+
+
+</video>
+
+<script>
+    var c=document.getElementById("myCanvas");
+    var ctx=c.getContext("2d");
+    ctx.beginPath();
+    ctx.arc(150,150,100,0,2*Math.PI);
+    ctx.stroke();
+</script>
+</body>
+</html>
