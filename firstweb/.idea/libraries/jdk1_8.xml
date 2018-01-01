@@ -1,7 +1,6 @@
 <component name="libraryTable">
   <library name="jdk1.8">
     <CLASSES />
-    <JAVADOC />
     <SOURCES>
       <root url="file://$APPLICATION_HOME_DIR$/java/jdk1.8.0_74" />
     </SOURCES>

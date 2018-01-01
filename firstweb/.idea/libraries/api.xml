@@ -1,9 +1,6 @@
 <component name="libraryTable">
   <library name="api">
     <CLASSES />
-    <JAVADOC>
-      <root url="file://$APPLICATION_HOME_DIR$/lib/groovy-2.4.7/doc/html/api" />
-    </JAVADOC>
     <SOURCES>
       <root url="file://$APPLICATION_HOME_DIR$/lib/groovy-2.4.7/src/src/examples" />
       <root url="file://$APPLICATION_HOME_DIR$/lib/groovy-2.4.7/src/src/main" />
